@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db6e2d7d-02f1-4d67-8bf1-1be017ef52f7" name="Changes" comment=" add Procfile">
-      <change beforePath="$PROJECT_DIR$/.python-version" beforeDir="false" afterPath="$PROJECT_DIR$/.python-version" afterDir="false" />
-    </list>
+    <list default="true" id="db6e2d7d-02f1-4d67-8bf1-1be017ef52f7" name="Changes" comment=" add Python version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731221677199</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=" add Python version">
+      <option name="closed" value="true" />
+      <created>1731222090095</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731222090095</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -125,6 +131,7 @@
     <MESSAGE value=" add requirements" />
     <MESSAGE value=" add requirements.txt" />
     <MESSAGE value=" add Procfile" />
-    <option name="LAST_COMMIT_MESSAGE" value=" add Procfile" />
+    <MESSAGE value=" add Python version" />
+    <option name="LAST_COMMIT_MESSAGE" value=" add Python version" />
   </component>
 </project>
