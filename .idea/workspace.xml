@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db6e2d7d-02f1-4d67-8bf1-1be017ef52f7" name="Changes" comment="first" />
+    <list default="true" id="db6e2d7d-02f1-4d67-8bf1-1be017ef52f7" name="Changes" comment=" add requirements.txt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "firzaelbuho"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/firzaelbuho/python-elbuhoapi.git",
+    "accountId": "51204af7-009a-4297-84e2-b79373fff595"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -79,11 +91,29 @@
       <option name="project" value="LOCAL" />
       <updated>1731220826121</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" add requirements">
+      <option name="closed" value="true" />
+      <created>1731221116572</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731221116572</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" add requirements.txt">
+      <option name="closed" value="true" />
+      <created>1731221278645</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731221278645</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value=" add requirements" />
+    <MESSAGE value=" add requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value=" add requirements.txt" />
   </component>
 </project>
