@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db6e2d7d-02f1-4d67-8bf1-1be017ef52f7" name="Changes" comment="remove specified version">
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
+    <list default="true" id="db6e2d7d-02f1-4d67-8bf1-1be017ef52f7" name="Changes" comment="add procfile">
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731222582071</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add procfile">
+      <option name="closed" value="true" />
+      <created>1731222745108</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731222745108</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +160,7 @@
     <MESSAGE value=" add Python version" />
     <MESSAGE value=" add Python version 3.11" />
     <MESSAGE value="remove specified version" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove specified version" />
+    <MESSAGE value="add procfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="add procfile" />
   </component>
 </project>
